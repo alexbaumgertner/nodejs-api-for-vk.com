@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-api-for-vk.com",
+  "version": "1.0.0",
+  "description": "vk.com API usage demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:easy-deep-learning/nodejs-api-for-vk.com.git"
+  },
+  "keywords": [
+    "nodejs",
+    "vk.com",
+    "API"
+  ],
+  "author": "easy-deep-learning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com:easy-deep-learning/nodejs-api-for-vk.com/issues"
+  },
+  "homepage": "https://github.com:easy-deep-learning/nodejs-api-for-vk.com#readme"
+}
